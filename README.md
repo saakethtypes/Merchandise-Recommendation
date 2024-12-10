@@ -25,7 +25,7 @@ A scalable **Recommendation System** for the **Google Merchandise Store**, built
 
 2. **Model Training**:
    - Train an **ALS model** with `user`, `item`, and `event_type`.
-   - Evaluate using **RMSE**
+   - Evaluate using **RMSE** ( Best model with a score of 0.2000 ) 
 
 3. **Recommendations**:
    - Generate top-N item recommendations for each user.
