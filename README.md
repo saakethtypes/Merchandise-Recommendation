@@ -1,9 +1,11 @@
 # Recommendation System Using PySpark
 
 ## Project Overview
-A scalable **Recommendation System** for the **Google Merchandise Store**, built using **PySpark MLlib**. It predicts items users are likely to interact with (`add_to_cart`, `begin_checkout`, `purchase`) using collaborative filtering.
-Dataset : https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data/data
 ---
+A scalable **Recommendation System** for the **Google Merchandise Store**, built using **PySpark MLlib**. It predicts items users are likely to interact with (`add_to_cart`, `begin_checkout`, `purchase`) using collaborative filtering.
+
+Dataset : https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data/data
+
 
 ## Technologies
 - **PySpark** (MLlib, DataFrame API)
